@@ -1,11 +1,9 @@
 <center><div>
- <img src="https://fktpolice.github.io/images/alex.png">
- 
 <header><h1>ALO ALO!</h1></header>
 
 
  - 👋 Hi, I’m Ezequiel
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning everything
 
  
  

@@ -1,7 +1,7 @@
 <div>
 <header><h1>ALO ALO!</h1></header>
  <div text-align=center>
- <nav> <a href="http://drekert.com">WEB</a> //// <a href="mailto:ezequielmatiasb@hotmail.com" style="color:green">CONTACTO</a>
+ <nav> <a align=left href="http://drekert.com">WEB</a> //// <a align=left href="mailto:ezequielmatiasb@hotmail.com" style="color:green">CONTACTO</a>
   </div>
  
  

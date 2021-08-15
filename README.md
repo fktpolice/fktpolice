@@ -13,4 +13,15 @@
  > http://drekert.com/
 </presentación>
 
+
+<html>
+<head>
+    <title>CSS incrustado en la cabecera</title>  
+    <style> p { color: green; } </style>
+</head> 
+<body>
+     <p>Párrafo de color verde.</p>
+</body> 
+</html> 
+
 </div

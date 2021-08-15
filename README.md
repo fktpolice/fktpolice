@@ -1,7 +1,11 @@
 <div>
 <header><h1>ALO ALO!</h1></header>
+ 
+ <nav> <a href="http://drekert.com">Web Personal</a>
 <presentación>
-- 👋 Hi, I’m @fktpolice
+
+ 
+ - 👋 Hi, I’m @fktpolice
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me ...
  > ezequielmatiasb@hotmail.com
